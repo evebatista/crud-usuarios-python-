@@ -20,4 +20,4 @@ jobs:
         with:
           python-version: '3.12'
       - name: Run tests
-        run:  python3 -m unittest \tests\test_app.py
+        run: python3 -m unittest discover -s tests -p "test_*.py"
