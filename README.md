@@ -1,0 +1,1 @@
+Aplicação simples de CRUD de usuarios usando listas em python, com testes automatizados e integração continua via GitHubs
